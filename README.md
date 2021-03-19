@@ -3,8 +3,7 @@
 SICSS-Zurich will take place online from June 14 to June 18, 2021.
 
 ## About this repo
-Our official webpage is: https://sicss.io/2021/ethzurich/.
-We will use this GitHub repo to share Zurich-specific information with you.
+We will use this GitHub repo to share Zurich-specific information with you. Please also consult the [official website for our site](https://sicss.io/2021/ethzurich/).
 
 ## Pre-event preparation
 As in past years, we recommend some pre-event preparation (reading, coding exercises). This preparation is not meant to be burdensome. We have found that they lead to a richer event. We are happy to help you with your preparations (see office hours below).
