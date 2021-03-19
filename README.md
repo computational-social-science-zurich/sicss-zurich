@@ -6,7 +6,7 @@ SICSS-Zurich will take place online from June 14 to June 18, 2021.
 We will use this GitHub repo to share Zurich-specific information with you. Please also consult the [official website for our site](https://sicss.io/2021/ethzurich/).
 
 ## Pre-event preparation
-As in past years, we recommend some pre-event preparation (reading, coding exercises). This preparation is not meant to be burdensome. We have found that they lead to a richer event. We are happy to help you with your preparations (see office hours below).
+As in past years, we recommend some pre-event preparation (reading, coding exercises). These preparations are not meant to be burdensome. We have found that they lead to a richer event. We are happy to help you with your preparations (see office hours below).
 
 Recommended readings (this list will be updated over time):
 - [Python for Economists](http://egallic.fr/Enseignement/Python/en/opening-remarks.html), by Ewen Gallic
