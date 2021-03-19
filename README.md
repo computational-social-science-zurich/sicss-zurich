@@ -13,7 +13,7 @@ Recommended readings (this list will be updated over time):
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, by Aurelien Geron
 
 ## Pre-event office hours
-You can meet on Fridays between 10:00-12:00 (from April onwards). Please book your slot [here](https://calendly.com/sicss-ethz2021/15min?month=2021-04).
+You can meet us on Fridays between 10:00-12:00 (from April onwards). Please book your slot [here](https://calendly.com/sicss-ethz2021/15min?month=2021-04).
 
 ## Preliminary schedule
 
