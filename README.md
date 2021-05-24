@@ -28,4 +28,5 @@ Time-wise, we will go about the days as follows:
 - 10:00-12:30: Teaching input
 - 12:30-16:30: Independent work in groups
 - 16:30-17:30: Participant presentations; debriefing and wrap-up
-- 17:30-18:30: Guest speaker presentations
+
+Along the way, there will be some input by guest speakers and lectures from the main venue in Princeton.
