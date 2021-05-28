@@ -30,3 +30,8 @@ Time-wise, we will go about the days as follows:
 - 16:30-17:30: Participant presentations; debriefing and wrap-up
 
 Along the way, there will be some input by guest speakers and lectures from the main venue in Princeton.
+
+## SICSS festival
+
+Usually (pre-COVID), the SICSS consists of a series of locally hosted in-person events around the world that are connected to each other by online lectures. To make SICSS as worthwile as possible, even in the absence of locally hosted events, the parent location in Princeton coordinates a SICSS festival. It is an online festival with different events around computational social science. The program is continuously updated here: https://sicss.io/festival.
+
