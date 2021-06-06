@@ -81,7 +81,7 @@ Simon Happersberger is a PhD researcher in Political Science at the Brussels Sch
 
 Till received his PhD in sociology from Yale University in 2019 and is a postdoctoral researcher at Bremen University, SOCIUM – Research Center on Inequality and Social Policy, Germany. He is a faculty fellow at Yale University’s Center for Cultural Sociology. His research interests include justice orientations, social memory, post-1989 transformations, and computational social science. As a member of the Working Group on the Comparative Study of Societies at the SOCIUM, he is researching popular beliefs about inequality and wealth. He is interested, in particular, in text as data, social network analysis, and data visualisation, and in how we can use these methods for the analysis of culture and inequality.
 
-<img src="https://user-images.githubusercontent.com/31765300/120939015-0579ac00-c716-11eb-8c80-e6638ad2a629.jpg" width="150">
+<img src="https://user-images.githubusercontent.com/31765300/120939129-c9931680-c716-11eb-82a5-e36424077e53.png" width="150">
 
 ### Kubli, Maël
 
