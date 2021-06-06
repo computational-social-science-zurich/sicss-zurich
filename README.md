@@ -40,7 +40,7 @@ Usually (pre-COVID), the SICSS consists of a series of locally hosted in-person 
 ### Barradas Chacón, Alberto
 Alberto Barradas Chacón is currently a doctoral candidate and university assistant at the Institute for Neuro Engineering, at the Technische Universität Graz, under the supervision of Prof. Selina Wriessnegger. He studied a Bachelor in Science in Computational Systems Engineering at the University of Guanajuato, Mexico, and a Science Masters in Data Analysis at the University of Hildesheim, Germany. Alberto focuses on Behavioural Data Analysis, and his current research topic uses tools and models from affective computing to relate behaviour to their neurophysiological basis with the help of Brain Computer Interfaces (BCI).
 
-![alberto](https://user-images.githubusercontent.com/31765300/120938781-efb7b700-c714-11eb-922a-1874adbd5ec4.jpg){:height="50%" width="50%"}
+![alberto](https://user-images.githubusercontent.com/31765300/120938781-efb7b700-c714-11eb-922a-1874adbd5ec4.jpg=250x250)
 
 ### Bello, Piera
 
