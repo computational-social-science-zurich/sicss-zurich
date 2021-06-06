@@ -37,6 +37,12 @@ Usually (pre-COVID), the SICSS consists of a series of locally hosted in-person 
 
 ## Participants
 
+### Ajagbe, Samson
+Samson is a research associate in a project on West African English on the Move at the English Department of the University of Freiburg, and an Adjunct lecturer at the Catholic University of Applied Sciences, Freiburg, where he teaches social and educational work with refugees. Samson’s work on migration and language study inspired his current research on the relationship between language and forms of discrimination. His research concentration straddles his current interest in studying language and discrimination and his previous research on democratization study. Samson received a PhD in Sociology at the University of Freiburg, and he is keen on applying natural language processing in the study of language and discrimination.
+
+<img src="https://user-images.githubusercontent.com/31765300/120939265-8ab19080-c717-11eb-8d09-ef3a9844e3f8.jpg" width="150">
+
+
 ### Barradas Chacón, Alberto
 Alberto Barradas Chacón is currently a doctoral candidate and university assistant at the Institute for Neuro Engineering, at the Technische Universität Graz, under the supervision of Prof. Selina Wriessnegger. He studied a Bachelor in Science in Computational Systems Engineering at the University of Guanajuato, Mexico, and a Science Masters in Data Analysis at the University of Hildesheim, Germany. Alberto focuses on Behavioural Data Analysis, and his current research topic uses tools and models from affective computing to relate behaviour to their neurophysiological basis with the help of Brain Computer Interfaces (BCI).
 
