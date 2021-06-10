@@ -5,15 +5,18 @@ SICSS-Zurich will take place online from June 14 to June 18, 2021.
 ## About this repo
 We will use this GitHub repo to share Zurich-specific information with you. Please also consult the [official website for our site](https://sicss.io/2021/ethzurich/).
 
+Questions/comments? Join us on our [Slack channel](https://join.slack.com/t/sicss-zh-2021/shared_invite/zt-qqx8oyas-kRAPbM0tuWybFw7h7vgx2w).
+
+## Latest news
+
+Please fill out our [onboarding survey](https://forms.gle/TN29uVsUoHYQZ7849): takes 2min max (and greatly helps all SICSS organizers :upside_down_face:
+
 ## Pre-event preparation
 As in past years, we recommend some pre-event preparation (reading, coding exercises). These preparations are not meant to be burdensome. We have found that they lead to a richer event. We are happy to help you with your preparations (see office hours below).
 
 Recommended readings (this list will be updated over time):
 - [Python for Economists](http://egallic.fr/Enseignement/Python/en/opening-remarks.html), by Ewen Gallic
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, by Aurelien Geron
-
-## Pre-event office hours
-You can meet us on Fridays between 10:00-12:00 (from April onwards). Please book your slot [here](https://calendly.com/sicss-ethz2021/15min?month=2021-04).
 
 ## Preliminary schedule
 
@@ -30,6 +33,9 @@ Time-wise, we will go about the days as follows:
 - 16:30-17:30: Participant presentations; debriefing and wrap-up
 
 Along the way, there will be some input by guest speakers and lectures from the main venue in Princeton.
+
+You can find all the videos from Princeton [here](https://sicss.io/curriculum).
+Note that there are some differences between sites. Hence, it is up to you if you want to watch videos that repeat our material or if you prefer those with different content. In any case, we encourage you to check out as many Princeton videos as possible to profit from the entire SICSS universe :stars:
 
 ## SICSS festival
 
@@ -101,6 +107,12 @@ I am a PhD candidate in the Environmental Policy Lab at ETH Zürich with an inte
 
 <img src="https://user-images.githubusercontent.com/31765300/120939038-27732e80-c716-11eb-9df2-ee60b8d31963.jpeg" width="150">
 
+### Licht, Hauke
+
+Hauke is a PhD student at the University of Zurich, Department of Political Science. He studies how electoral competition shapes political discourse and he is interested in the role that rhetoric strategies play in democratic representation more generally. In his research, he develops and applies text-as-data and natural language processing methods to address these questions.
+
+<img src="https://user-images.githubusercontent.com/31765300/121482422-71396e80-c9cd-11eb-9243-cf5c6d54876f.jpeg" width="150">
+
 ### Martínez-Cantó, Javier
 
 Javier Martínez-Cantó is a post-doctoral researcher in the research group on Comparative Politics at the University of Konstanz. Before, he developed his doctorate at the University of Bamberg. His research interests are party organization, legislative behavior and multi-level politics. In his research, he seek to understand how political parties make decisions, and how these influence the behavior of rank-and-file members, legislators and party elites.
@@ -124,5 +136,11 @@ Anna is an MA Economics student at Central European University in Vienna. She ob
 Tuhina is a Senior Researcher at the King George's Medical University, Lucknow, India. She has a Masters and a PhD in Social Work. Her research interests include disease prevention, social determinants of health, maternal and child nutrition, health communication and health-seeking behaviour. She is interested in the use of computational social science and mixed-methods for investigating public perceptions of health, studying network-related dimensions of health phenomena and monitoring of illness. She also intends to study the realms of health communication, social networks and information-spreading. Her previous research has been published in indexed, peer-reviewed medical/public health journals like WHO bulletin, PLOS ONE, clinical epidemiology and global health, Journal of Tropical Pediatrics and BMJ Open.
 
 <img src="https://user-images.githubusercontent.com/31765300/120939052-378b0e00-c716-11eb-9b4d-3b3c73e41192.jpg" width="150">
+
+### Roesti, Matthias
+
+Matthias is pursuing a PhD in Economics at the University of St. Gallen. His research interests cover the empirical exploration of a range of questions surrounding adaption of green technologies, covert environmental policy lobbying through media advertisements, and the spread of conspiracy theories via the internet. He holds an MPhil in Economics from the University of Oxford, and a BSc in Economics from the University of Bern.
+
+<img src=https://user-images.githubusercontent.com/31765300/121482229-39cac200-c9cd-11eb-87c9-f98d131f02d4.png" width="150">!
 
 
