@@ -9,7 +9,7 @@ Questions/comments? Join us on our [Slack channel](https://join.slack.com/t/sics
 
 ## Latest news
 
-Please fill out our [onboarding survey](https://forms.gle/TN29uVsUoHYQZ7849): takes 2min max (and greatly helps all SICSS organizers :upside_down_face:
+Please fill out our [onboarding survey](https://forms.gle/TN29uVsUoHYQZ7849): takes 2min max and greatly helps all SICSS organizers :upside_down_face:
 
 ## Pre-event preparation
 As in past years, we recommend some pre-event preparation (reading, coding exercises). These preparations are not meant to be burdensome. We have found that they lead to a richer event. We are happy to help you with your preparations (see office hours below).
