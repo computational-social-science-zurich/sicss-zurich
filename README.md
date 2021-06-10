@@ -141,6 +141,6 @@ Tuhina is a Senior Researcher at the King George's Medical University, Lucknow, 
 
 Matthias is pursuing a PhD in Economics at the University of St. Gallen. His research interests cover the empirical exploration of a range of questions surrounding adaption of green technologies, covert environmental policy lobbying through media advertisements, and the spread of conspiracy theories via the internet. He holds an MPhil in Economics from the University of Oxford, and a BSc in Economics from the University of Bern.
 
-<img src=https://user-images.githubusercontent.com/31765300/121482229-39cac200-c9cd-11eb-87c9-f98d131f02d4.png" width="150">!
+<img src=https://user-images.githubusercontent.com/31765300/121482229-39cac200-c9cd-11eb-87c9-f98d131f02d4.png" width="150">
 
 
