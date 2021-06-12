@@ -34,6 +34,8 @@ Time-wise, we will go about the days as follows:
 
 **Important: on Monday, we will start at 09:30 instead of 10:00.**
 
+**The Zoom links for our meetings will be posted here.**
+
 Along the way, there will be some input by guest speakers and lectures from the main venue in Princeton.
 
 You can find all the videos from Princeton [here](https://sicss.io/curriculum).
