@@ -18,7 +18,7 @@ Recommended readings (this list will be updated over time):
 - [Python for Economists](http://egallic.fr/Enseignement/Python/en/opening-remarks.html), by Ewen Gallic
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, by Aurelien Geron
 
-## Preliminary schedule
+## High-level schedule
 
 The days will be organized around topics, with one broad topic per day:
 - Day 1: Introduction to statistical learning
@@ -32,10 +32,26 @@ Time-wise, we will go about the days as follows:
 - 12:30-16:30: Independent work in groups
 - 16:30-17:30: Participant presentations; debriefing and wrap-up
 
+**Important: on Monday, we will start at 09:30 instead of 10:00.**
+
 Along the way, there will be some input by guest speakers and lectures from the main venue in Princeton.
 
 You can find all the videos from Princeton [here](https://sicss.io/curriculum).
 Note that there are some differences between sites. Hence, it is up to you if you want to watch videos that repeat our material or if you prefer those with different content. In any case, we encourage you to check out as many Princeton videos as possible to profit from the entire SICSS universe :stars:
+
+## Daily Schedules
+
+### Monday
+
+- 09:30-10:30: Introduction to SICSS, participant presentation (who and where are you? what do you hope to get from SICSS?)
+- 10:30-11:00: Coffee break (we will spend it together on Zoom getting to know each other)
+- 11:30-12:30: Teaching input: Introduction to statistical learning
+- 12:30-13:30: Individual lunch breaks
+- 13:30-14:00: Launch Jupyter notebook, Python basics (pandas, matplotlib) -- optional
+- 14:00-17:00: Malka and Philine available on Zoom to help you getting started with Python/Jupyter -- optional, just drop in as needed
+- 17:00-17:30: Wrap-up
+
+There are no participant presentations on Monday. Instead, the goal of the day is for everyone to be set up comfortably with Python.
 
 ## SICSS festival
 
