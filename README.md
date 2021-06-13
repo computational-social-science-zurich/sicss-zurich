@@ -34,7 +34,7 @@ Time-wise, we will go about the days as follows:
 
 **Important: on Monday, we will start at 09:30 instead of 10:00.**
 
-**The Zoom links for our meetings will be posted here.**
+**This is the [Zoom link](https://unisg.zoom.us/j/88973099685?pwd=aDBFUGU0cE5TalppTGw4NkMvT3ZQZz09) for our meetings.**
 
 Along the way, there will be some input by guest speakers and lectures from the main venue in Princeton.
 
