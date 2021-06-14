@@ -55,6 +55,15 @@ Note that there are some differences between sites. Hence, it is up to you if yo
 
 There are no participant presentations on Monday. Instead, the goal of the day is for everyone to be set up comfortably with Python.
 
+## Tuesday
+
+- 09:30-10:30: Teaching input: scraping and APIs
+- 10:30-11:00: Coffee break (opt-in if you want to spend it in a breakout room)
+- 11:00-12:00: Teaching input: scraping and APIs; discussion of tasks for the afternoon
+- 12:00-13:00: Individual lunch breaks
+- 13:00-16:00: Work in groups
+- 16:00-17:00: Wrap-up, group presentations
+
 ## SICSS festival
 
 Usually (pre-COVID), the SICSS consists of a series of locally hosted in-person events around the world that are connected to each other by online lectures. To make SICSS as worthwile as possible, even in the absence of locally hosted events, the parent location in Princeton coordinates a SICSS festival. It is an online festival with different events around computational social science. The program is continuously updated here: https://sicss.io/festival.
