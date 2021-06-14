@@ -72,6 +72,10 @@ Alberto Barradas Chacón is currently a doctoral candidate and university assist
 
 <img src="https://user-images.githubusercontent.com/31765300/120938781-efb7b700-c714-11eb-922a-1874adbd5ec4.jpg" width="150">
 
+### Bantel, Ivo
+
+Ivo is a PhD student in Political Science at the University of Zurich and a member of the University of Zurich's Digital Democracy Lab. His research focuses affective polarization in multi-party systems; his wider research interests include European far-right politics, political violence and terrorism, natural language processing, quantitative text analysis, and computational social science methods.
+
 ### Bello, Piera
 
 Piera Bello is a postdoctoral fellow at the University of Zurich. She received her PhD from the Università della Svizzera italiana (USI). Before joining the University of Zurich, she worked as a postdoctoral fellow at University College London and Ca' Foscari University of Venice. Her primary research interests are in gender economics, pension economics and political economy. Her recent papers investigate the functioning of annuity markets.
@@ -124,6 +128,7 @@ Maël is a political scientist at the University of Zurich he started working as
 I am a PhD candidate in the Environmental Policy Lab at ETH Zürich with an interdisciplinary background, having previously studied social anthropology, geography and environmental science. My research investigates the relationship between land use, livelihoods and global supply chains, with a specific focus on the effectiveness and equity of zero deforestation initiatives in the cattle sector of the Brazilian Amazon. To understand these issues, I primarily use econometric and network analysis approaches to analyse data that is either remotely sensed or collected from the field. However, I am increasingly drawn towards data science techniques, such as web scraping and machine learning and am excited to learn more through the SICSS!
 
 <img src="https://user-images.githubusercontent.com/31765300/120939038-27732e80-c716-11eb-9df2-ee60b8d31963.jpeg" width="150">
+
 
 ### Licht, Hauke
 
