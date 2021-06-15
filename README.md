@@ -65,6 +65,15 @@ There are no participant presentations on Monday. Instead, the goal of the day i
 - 13:00-16:00: Work in groups
 - 16:00-17:00: Wrap-up, group presentations
 
+## Wednesday
+
+- 09:30-10:30: Teaching input: classification and regression
+- 10:30-11:00: Coffee break
+- 11:00-12:00: Teaching input: classification and regression; discussion of tasks for the afternoon
+- 12:00-13:00: Individual lunch breaks
+- 13:00-16:00: Work in groups
+- 16:00-17:00: Wrap-up, group presentations
+
 ## SICSS festival
 
 Usually (pre-COVID), the SICSS consists of a series of locally hosted in-person events around the world that are connected to each other by online lectures. To make SICSS as worthwile as possible, even in the absence of locally hosted events, the parent location in Princeton coordinates a SICSS festival. It is an online festival with different events around computational social science. The program is continuously updated here: https://sicss.io/festival.
