@@ -116,7 +116,7 @@ Dweepobotee Brahma is a Fellow at the National Institute of Public Finance and P
 
 <img src="https://user-images.githubusercontent.com/31765300/120938968-c8151e80-c715-11eb-95b3-e8b3ad74c5b1.jpg" width="150">
 
-### De la Cal Medina, Jorge 
+### De la Cal Medina, Jorge
 Jorge de la Cal Medina is a master's student in Economics and Data Science in his last year and a research assistant in econometrics both at the University of Zürich. Computational methods in general are gaining ground in econometric research, but he would like to emphasize especially the computational tools of Causal Science for causal analysis in Econometrics.
 
 <img src="https://user-images.githubusercontent.com/31765300/120938972-d4997700-c715-11eb-8150-7626cd9bde15.JPG" width="150">
@@ -192,7 +192,3 @@ Tuhina is a Senior Researcher at the King George's Medical University, Lucknow, 
 Matthias is pursuing a PhD in Economics at the University of St. Gallen. His research interests cover the empirical exploration of a range of questions surrounding adaption of green technologies, covert environmental policy lobbying through media advertisements, and the spread of conspiracy theories via the internet. He holds an MPhil in Economics from the University of Oxford, and a BSc in Economics from the University of Bern.
 
 <img src="https://user-images.githubusercontent.com/31765300/121482764-b8bffa80-c9cd-11eb-820f-3b7f711d5ac2.png" width="150">
-
-
-
-
