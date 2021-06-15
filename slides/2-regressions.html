@@ -1,0 +1,137 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>2-regressions</title>
+		<meta name="description" content="ETH Zürich - Big Data for Public Policy Analysis - Spring 2021">
+		<meta name="author" content="Malka Guillot">
+
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+		<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+		<link rel="stylesheet" href="../revealjs/dist/reset.css">
+		<link rel="stylesheet" href="../revealjs/dist/reveal.css">
+		<link rel="stylesheet" href="../revealjs/dist/theme/malka.css" id="theme">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="../revealjs/plugin/highlight/monokai.css" id="highlight-theme">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides" >
+				<section data-markdown=2-regressions.md data-separator="^\n---\n$" data-separator-vertical="^\n--\n$" data-background-color="rgb(20, 35, 40)" link-color-hover="orange">
+					<!-- 				<section data-markdown=w1_intro.md data-separator="^\n---\n$" data-separator-vertical="^\n--\n$" data-background-color="rgb(20, 35, 40)" link-color-hover="orange">
+					-->
+						<textarea type="text/template">
+
+
+					</textarea>
+				</section>
+				</div>
+		</div>
+
+		<script src="../revealjs/plugin/pdfexport/pdfexport.js"></script>
+		<script src="../revealjs/plugin/chalkboard/plugin.js"></script>
+		<script src="../revealjs/plugin/reveal.js-menu-master/menu.js"></script>
+		<script src="../revealjs/dist/reveal.js"></script>
+		<script src="../revealjs/plugin/notes/notes.js"></script>
+		<script src="../revealjs/plugin/markdown/markdown.js"></script>
+		<script src="../revealjs/plugin/highlight/highlight.js"></script>
+		<script src="../revealjs/plugin/math/math.js"></script>
+
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+
+				math: {
+		      mathjax: 'https://cdn.jsdelivr.net/gh/mathjax/mathjax@2.7.8/MathJax.js',
+		      config: 'TeX-AMS_HTML-full',
+		      // pass other options into `MathJax.Hub.Config()`
+		      TeX: { Macros: { RR: "{\\bf R}" } }
+		    },
+
+				// Help the user learn the controls by providing hints, for example by
+			  // bouncing the down arrow when they first encounter a vertical slide
+  			controlsTutorial: true,
+
+				// Enable the slide overview mode
+				overview: true,
+
+				// Display presentation control arrows
+				controls: true,
+				// Enable slide navigation via mouse wheel
+				mouseWheel: true,
+				// Visibility rule for backwards navigation arrows; "faded", "hidden"
+			  // or "visible"
+			  controlsBackArrows: 'faded',
+				// Turns fragments on and off globally
+				fragments: true,
+
+				// Add the current slide number to the URL hash so that reloading the
+			  // page/copying the URL will return you to the same slide
+				hash: true,
+
+				slideNumber:"c/t",
+
+				// Transition style
+				transition: 'linear', // default/cube/page/concave/zoom/linear/fade/none
+				// Transition speed
+				transitionSpeed: 'fast', // default/fast/slow
+				// Learn about plugins: https://  revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath, RevealMenu, RevealChalkboard  ],
+				chalkboard: {
+					boardmarkerWidth: 3,
+					chalkWidth: 7,
+					chalkEffect: 1.0,
+					src: null,
+					readOnly: undefined,
+					toggleChalkboardButton: { left: "110px", bottom: "30px", top: "auto", right: "auto" },
+					toggleNotesButton: { left: "75px", bottom: "30px", top: "auto", right: "auto" },
+					transition: 800,
+					theme: "chalkboard",
+					background: [ 'rgba(127,127,127,.1)' , path + 'img/blackboard.png' ],
+					grid: { color: 'rgb(50,50,10,0.5)', distance: 80, width: 2},
+					eraser: { src: path + 'img/sponge.png', radius: 20},
+					boardmarkers : [
+								  { color: 'rgba(30,144,255, 1)', cursor: 'url(' + path + 'img/boardmarker-blue.png), auto'},
+									{ color: 'rgba(255,140,0,1)', cursor: 'url(' + path + 'img/boardmarker-orange.png), auto'},									{ color: 'rgba(100,100,100,1)', cursor: 'url(' + path + 'img/boardmarker-black.png), auto'},
+									{ color: 'rgba(220,20,60,1)', cursor: 'url(' + path + 'img/boardmarker-red.png), auto'},
+									{ color: 'rgba(50,205,50,1)', cursor: 'url(' + path + 'img/boardmarker-green.png), auto'},
+									{ color: 'rgba(150,0,20150,1)', cursor: 'url(' + path + 'img/boardmarker-purple.png), auto'},
+									{ color: 'rgba(255,220,0,1)', cursor: 'url(' + path + 'img/boardmarker-yellow.png), auto'}
+					],
+					chalks: [
+									{ color: 'rgba(220, 133, 41, 0.5)', cursor: 'url(' + path + 'img/chalk-orange.png), auto'},
+									{ color: 'rgba(255,255,255,0.5)', cursor: 'url(' + path + 'img/chalk-white.png), auto'},
+									{ color: 'rgba(96, 154, 244, 0.5)', cursor: 'url(' + path + 'img/chalk-blue.png), auto'},
+									{ color: 'rgba(237, 20, 28, 0.5)', cursor: 'url(' + path + 'img/chalk-red.png), auto'},
+									{ color: 'rgba(20, 237, 28, 0.5)', cursor: 'url(' + path + 'img/chalk-green.png), auto'},
+									{ color: 'rgba(220,0,220,0.5)', cursor: 'url(' + path + 'img/chalk-purple.png), auto'},
+									{ color: 'rgba(255,220,0,0.5)', cursor: 'url(' + path + 'img/chalk-yellow.png), auto'}
+					]
+			},
+
+
+				autoAnimateStyles: [
+					'opacity',
+					'color',
+					'background-color',
+					'padding',
+					'font-size',
+					'line-height',
+					'letter-spacing',
+					'border-width',
+					'border-color',
+					'border-radius',
+					'outline',
+				]
+
+			});
+		</script>
+
+
+	</body>
+</html>
