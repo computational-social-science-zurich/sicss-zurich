@@ -28,9 +28,10 @@ The days will be organized around topics, with one broad topic per day:
 - Day 5: Images as data
 
 Time-wise, we will go about the days as follows:
-- 9:30-12:30: Teaching input
-- 12:30-16:30: Independent work in groups
-- 16:30-17:30: Participant presentations; debriefing and wrap-up
+- 09:30-12:00: Teaching input
+- 12:00-13:00: Individual lunch breaks
+- 13:00-16:00: Independent work in groups
+- 16:00-17:30: Wrap up; depending on the day it might start only at 16:30 (but it won't last longer than 17:30)
 
 **Important: on Monday, we will start at 09:30 instead of 10:00.**
 
