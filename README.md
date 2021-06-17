@@ -67,9 +67,9 @@ There are no participant presentations on Monday. Instead, the goal of the day i
 
 ## Wednesday
 
-- 09:30-10:30: Teaching input: classification and regression
+- 09:30-10:30: Teaching input: Classification and regression
 - 10:30-11:00: Coffee break
-- 11:00-12:00: Teaching input: classification and regression; discussion of tasks for the afternoon
+- 11:00-12:00: Teaching input: Classification and regression; discussion of tasks for the afternoon
 - 12:00-13:00: Individual lunch breaks
 - 13:00-16:00: Work in groups
 - 16:00-17:00: Wrap-up, group presentations
@@ -82,6 +82,15 @@ There are no participant presentations on Monday. Instead, the goal of the day i
 - 12:00-13:00: Individual lunch breaks
 - 13:00-16:00: Work in groups
 - 17:15-18:15: Wrap-up, group presentations
+
+## Friday
+
+- 09:30-10:30: Teaching input: Images as Data
+- 10:30-11:00: Coffee break
+- 11:00-12:00: Teaching input: Images as data
+- 12:00-13:00: Individual lunch breaks
+- 13:00-16:00: Work in groups
+- 16:00-17:00: Wrap-up, group presentations
 
 ## SICSS festival
 
