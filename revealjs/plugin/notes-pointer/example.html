@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@3.7.0/css/reveal.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@3.7.0/css/theme/black.css">
+	<style type="text/css">
+		.reveal .slides {
+			border: 1px solid white;
+		}
+	</style>
+	
+	<title>Document</title>
+</head>
+<body>
+	<div class="reveal">
+		<div class="slides">
+			<section><h1>Slide 1</h1></section>
+			<section><h2>Slide 2</h2></section>
+		</div>
+	</div>
+
+	<script src="https://cdn.jsdelivr.net/npm/reveal.js@3.7.0/lib/js/head.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/reveal.js@3.7.0/js/reveal.js"></script>
+	
+	<script>
+		Reveal.initialize({
+				notes_pointer: {
+					pointer: {
+						size: 20
+					}
+				},
+				dependencies: [
+					{ src: './notes-pointer.js' },
+				]});
+	</script>
+</body>
+</html>

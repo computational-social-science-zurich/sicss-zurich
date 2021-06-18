@@ -1,0 +1,422 @@
+/**
+ * Black theme for reveal.js.
+ *
+ * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
+ */
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic);
+section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
+  color: #222; }
+
+/*********************************************
+ * GLOBAL STYLES
+ *********************************************/
+:root {
+  --background-color: #142328;
+  --main-font: "Fira Sans";;
+  --main-font-size: 38px;
+  --main-color: #eee;
+  --block-margin: 20px;
+  --heading-margin: 0 0 20px 0;
+  --heading-font: Montserrat, Impact, sans-serif;
+  --heading-color: #eee;
+  --heading-line-height: 1.2;
+  --heading-letter-spacing: normal;
+  --heading-text-transform: none;
+  --heading-text-shadow: none;
+  --heading-font-weight: normal;
+  --heading1-text-shadow: none;
+  --heading1-size: 2.5em;
+  --heading2-size: 1.6em;
+  --heading3-size: 1.3em;
+  --heading4-size: 1em;
+  --code-font: monospace;
+  --link-color: #e7ad52;
+  --link-color-hover: #f3d7ac;
+  --selection-background-color: #e7ad52;
+  --selection-color: #fff;
+  --text-align: left;
+
+}
+.reveal .slides {
+    text-align:left;
+}
+
+.reveal-viewport {
+  background: #142328;
+  background-color: #142328; }
+
+.reveal {
+  font-family: "Fira Sans";
+  font-size: 30px;
+  font-weight: normal;
+  color: #eee; }
+
+.reveal ::selection {
+  color: #fff;
+  background: #e7ad52;
+  text-shadow: none; }
+
+.reveal ::-moz-selection {
+  color: #fff;
+  background: #e7ad52;
+  text-shadow: none; }
+
+.reveal .slides section,
+.reveal .slides section > section {
+  line-height: 1.3;
+  font-weight: inherit; }
+
+/*********************************************
+ * HEADERS
+ *********************************************/
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  margin: 0 0 20px 0;
+  color: #eee;
+  font-family: "Fira Sans";
+  font-weight: normal;
+  line-height: 1.2;
+  letter-spacing: -0.03em;
+  text-align:center;
+  text-transform: none;
+  text-shadow: none;
+  word-wrap: break-word; }
+
+  .reveal h1 {
+      font-size: 1.77em;
+      text-align: center;
+    }
+
+  .reveal h2 {
+      font-size: 1.30em;
+      text-align: center;
+      color: #8ee593;
+    }
+
+  .reveal h3 {
+      font-size: 1.2em;
+      text-align: center;
+      color: #8ee593;
+    }
+
+  .reveal h4 {
+      font-size: .75em;
+      text-align: center;}
+
+  .reveal h1 {
+      text-shadow: none; }
+
+
+      h1.subtitle {
+          font-size: 1em;
+          padding-bottom:15px;
+          border-bottom: 2px solid #EB811B;
+      }
+
+      h2.author, h3.date {
+          font-size: .6em;
+      }
+
+      h1.title {
+          font-variant: small-caps;
+      }
+
+      .level2 h1 {
+          font-size:1.57em;
+          font-variant: small-caps;
+          text-transform: lowercase;
+      }
+
+      .titleslide h1 {
+          font-variant: small-caps;
+          font-size:1.67em;
+          margin-left:25px;
+          margin-right:25px;
+          padding-bottom: 10px;
+          border-bottom: 2px solid #EB811B;
+      }
+/*********************************************
+ * OTHER
+ *********************************************/
+.reveal p {
+  margin: 20px 0;
+  line-height: 1.3; }
+
+/* Remove trailing margins after titles */
+.reveal h1:last-child,
+.reveal h2:last-child,
+.reveal h3:last-child,
+.reveal h4:last-child,
+.reveal h5:last-child,
+.reveal h6:last-child {
+  margin-bottom: 0; }
+
+/* Ensure certain elements are never larger than the slide itself */
+.reveal img,
+.reveal video,
+.reveal iframe {
+  max-width: 95%;
+  max-height: 95%; }
+
+.reveal strong,
+.reveal b {
+  font-weight: bold; }
+
+.reveal em {
+  font-style: italic; }
+
+.reveal bcolor {
+  font-weight: bold;
+  color: #8ee593;
+}
+
+.reveal cite {
+  height: 100%;
+  margin: 0 ;
+  display: inline-block;
+  width :   100%;
+  font-size: .6em;
+}
+
+.reveal ol,
+.reveal dl,
+.reveal ul {
+  display: inline-block;
+  text-align: left;
+  margin: 0 0 0 1em; }
+
+.reveal ol {
+  list-style-type: decimal; }
+
+.reveal ul {
+  list-style-type: disc; }
+
+.reveal ul ul {
+  list-style-type: square; }
+
+.reveal ul ul ul {
+  list-style-type: circle; }
+
+.reveal ul ul,
+.reveal ul ol,
+.reveal ol ol,
+.reveal ol ul {
+  display: block;
+  margin-left: 40px; }
+
+.reveal dt {
+  font-weight: bold; }
+
+.reveal dd {
+  margin-left: 40px; }
+
+.reveal blockquote {
+  display: block;
+  position: relative;
+  width: 70%;
+  margin: 20px auto;
+  padding: 5px;
+  font-style: italic;
+  background: rgba(255, 255, 255, 0.05);
+  box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2); }
+
+.reveal blockquote p:first-child,
+.reveal blockquote p:last-child {
+  display: inline-block; }
+
+.reveal q {
+  font-style: italic; }
+
+.reveal pre {
+  display: block;
+  position: relative;
+  width: 90%;
+  margin: 20px auto;
+  text-align: left;
+  font-size: 0.55em;
+  font-family: "Fira Sans";
+  line-height: 1.2em;
+  word-wrap: break-word;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15); }
+
+.reveal code {
+  font-family: "Fira Sans";
+  text-transform: none; }
+
+.reveal pre code {
+  display: block;
+  padding: 5px;
+  overflow: auto;
+  max-height: 400px;
+  word-wrap: normal; }
+
+.reveal table {
+  margin: auto;
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+.reveal table th {
+  font-weight: bold; }
+
+.reveal table th,
+.reveal table td {
+  text-align: left;
+  padding: 0.2em 0.5em 0.2em 0.5em;
+  border-bottom: 1px solid; }
+
+.reveal table th[align="center"],
+.reveal table td[align="center"] {
+  text-align: center; }
+
+.reveal table th[align="right"],
+.reveal table td[align="right"] {
+  text-align: right; }
+
+.reveal table tbody tr:last-child th,
+.reveal table tbody tr:last-child td {
+  border-bottom: none; }
+
+.reveal sup {
+  vertical-align: super;
+  font-size: smaller; }
+
+.reveal sub {
+  vertical-align: sub;
+  font-size: smaller; }
+
+.reveal small {
+  display: inline-block;
+  font-size: 0.6em;
+  line-height: 1.2em;
+  vertical-align: top; }
+
+.reveal small * {
+  vertical-align: top; }
+
+.reveal img {
+  margin: 20px 0; }
+
+/*********************************************
+ * LINKS
+ *********************************************/
+.reveal a {
+  color: #e7ad52;
+  text-decoration: none;
+  transition: color .15s ease; }
+
+.reveal a:hover {
+  color: #f3d7ac;
+  text-shadow: none;
+  border: none; }
+
+.reveal .roll span:after {
+  color: #fff;
+  background: #d08a1d; }
+
+/*********************************************
+ * Frame helper
+ *********************************************/
+.reveal .r-frame {
+  border: 4px solid #eee;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
+
+.reveal a .r-frame {
+  transition: all .15s linear; }
+
+.reveal a:hover .r-frame {
+  border-color: #e7ad52;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
+
+
+  /*********************************************
+   * IMAGES
+   *********************************************/
+  .reveal section img {
+      margin: 15px 0px;
+      /*background: rgba(255, 255, 255, 0.12);
+       border: 4px solid #000;
+       box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+       */
+     }
+
+  .reveal section img.plain {
+      border: 0;
+      box-shadow: none; }
+
+    .reveal .content-aside {
+         margin-top: 2em;
+         margin-left: 0em;
+         margin-right: 5em;
+      }
+  .image-float {
+       float: right;
+       position: relative;
+       top: 0;
+       left: 00px;
+    }
+  .reveal a img {
+      -webkit-transition: all 0.1s linear;
+      -moz-transition: all 0.1s linear;
+      transition: all 0.1s linear; }
+
+  .reveal a:hover img {
+      background: rgba(20, 35, 40, 0.2);
+      border-color: #51483D;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
+
+
+
+      .box {
+        border-style: solid;
+        border-width: 1px;
+        display: block;
+        width: 100px;
+        height: 100px;
+        background-color: #51483D;
+        transition: width 2s, height 2s, background-color 2s, transform 2s;
+      }
+
+      .box:hover {
+        background-color: #51483D;
+        width: 200px;
+        height: 200px;
+        transform: rotate(180deg);
+      }
+
+      /* footnote
+      <div class='footer'>
+      Use left and right arrows to navigate
+      </div>
+      */
+      .reveal .footer {
+        position: absolute;
+        bottom: 1em;
+        left: 1em;
+        font-size: 0.5em;
+      }
+
+/*********************************************
+ * NAVIGATION CONTROLS
+ *********************************************/
+.reveal .controls {
+  color: #e7ad52; }
+
+/*********************************************
+ * PROGRESS BAR
+ *********************************************/
+.reveal .progress {
+  background: rgba(0, 0, 0, 0.2);
+  color: #e7ad52; }
+
+/*********************************************
+ * PRINT BACKGROUND
+ *********************************************/
+@media print {
+  .backgrounds {
+    background-color: #142328; } }
